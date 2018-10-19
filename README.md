@@ -1,4 +1,2 @@
 # TestProject
-# introduction
-introduction.txt
-
+# introduction.txt
